@@ -275,31 +275,13 @@ footer p {
 
 
 
-.footer {
+.foot {
+    margin-left: auto;
     display: flex;
+    justify-content: space-evenly;
+    color: palevioletred;
+    padding: 20px;
+    font-size: larger;
     justify-content: space-evenly;
 }
 
-.foot {
-    font-weight: bold;
-    text-align: left;
-    padding-right: 1000px;
-    padding-top: 20px;
-    
-
-}
-
-.help {
-    font-weight: bold;
-    text-align: center;
-    padding-top: 20px;
-
-}
-
-.service {
-    font-weight: bold;
-    text-align: right;
-    padding-top: 20px;
-    margin-left: 900px;
-
-}
